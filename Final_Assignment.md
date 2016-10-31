@@ -15,4 +15,5 @@
       to generate the submission
 4. Note: For every group, the individual team members need to sign up for their
    individual accounts in Kaggle, and then compete together as a team (one of
-   you will need to create a team and add everyone else to it.
+   you will need to create a team and add everyone else to it
+5. Deadline: 21st November, 2016.
